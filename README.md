@@ -46,4 +46,5 @@ pip install -r requirements.txt
 Run the script:
 python dxcam_sllm.py
 
+<img width="617" height="1389" alt="fluxograma_dxcam_sllm" src="https://github.com/user-attachments/assets/045fa0f1-f031-44dd-86c6-df41b1bf1417" />
  
