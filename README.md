@@ -19,6 +19,8 @@ An intelligent screen and window capture system for Windows, powered by an adapt
 - **Auto-deletion**:
   - Automatically deletes screenshots after a set duration (default: 40 seconds)
 - **Supports multi-monitor setups and various screen resolutions**
+- 
+<img width="617" height="1389" alt="fluxograma_dxcam_sllm" src="https://github.com/user-attachments/assets/ac185db5-d751-4f22-9719-12e8a92a1dd7" />
 
 ## Requirements
 
@@ -46,5 +48,5 @@ pip install -r requirements.txt
 Run the script:
 python dxcam_sllm.py
 
-<img width="617" height="1389" alt="fluxograma_dxcam_sllm" src="https://github.com/user-attachments/assets/045fa0f1-f031-44dd-86c6-df41b1bf1417" />
+
  
