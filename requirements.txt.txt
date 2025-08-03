@@ -1,0 +1,4 @@
+dxcam>=0.0.8
+pygetwindow>=0.0.9
+pywin32>=306
+Pillow>=10.0.0
